@@ -1,2 +1,11 @@
+# ignore processed data
+data/processed/
+
+# ignore system files
 .DS_Store
-data/raw/
+
+# (ถ้ามี output หรือ cache อื่น ๆ ใส่เพิ่มได้)
+
+
+
+
